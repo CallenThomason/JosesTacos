@@ -1,0 +1,18 @@
+/* These three classes are done for you.
+   Do not change them. Your job is to decide which elements get them,
+   and to add them from JavaScript. */
+
+.closed {
+  color: #9ca3af;
+  text-decoration: line-through;
+}
+
+.featured {
+  background-color: #fef08a;
+  font-weight: bold;
+}
+
+.today {
+  background-color: #dbeafe;
+  font-weight: bold;
+}
