@@ -84,5 +84,5 @@ Notice what you are not doing. You are never writing a color or a font in JavaSc
 10/19/26
 Jose's Taco Truck
 I was able to change everything on the website, only using JavaScript. I had a challenge accessing the table and changing each value using one for loop, but was able to solve it with my naming convention. I made the last part of each id change as the index would in my for loop. textContent and textList.add where the main contributers top changing the DOM.
-Peer Reviewer: 
-Review
+Peer Reviewer: Chris Estrada
+Review- everything looks great! your code is a bit more streamlined than mine i'll have to note the day/location one. great job.
